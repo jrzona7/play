@@ -9,7 +9,8 @@ http://69.162.89.182:8081/live/bbb11/chunks.m3u8?nimblesessionid=7704075&wmsAuth
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHOdWauEx0tD_QPER3zHtXew4o4sFMz4XzGg&usqp=CAU" group-title="canal viva",viva
 http://172.96.172.111:2095/streams/153_.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuSNKaSKXX9QDn5EbHImSERdxFFPm4QnVOYw&usqp=CAU" group-title="multishoww",Multishow http://172.96.172.111:2095/streams/143_.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuSNKaSKXX9QDn5EbHImSERdxFFPm4QnVOYw&usqp=CAU" group-title="multishoww",Multishow
+http://172.96.172.111:2095/streams/143_.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTY1ABjMbVjP6azFHnvr3tJn6EpduRySGvw0g&usqp=CAU" group-title="telecine  premium",Telecine Premium
 http://69.162.89.182:8081/live/filmes_tcpremium/chunks.m3u8?nimblesessionid=7704278&wmsAuthSign=c2VydmVyX3RpbWU9NC85LzIwMjEgNjo1Mzo0NCBQTSZoYXNoX3ZhbHVlPTdwL1ErUnN1RUdmZE1IdWZKU0YzWEE9PSZ2YWxpZG1pbnV0ZXM9Mg==
