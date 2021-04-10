@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStv-vPWABxJdjcvJK6kA-thObTc3bBXE3-HRLIVoD0Q1OM1PKfjuNB9SnS&s=10" group-title="big brother",câmera 1 HD
-http://69.162.89.182:8081/live/bbb01/chunks.m3u8?nimblesessionid=7703921&wmsAuthSign=c2VydmVyX3RpbWU9NC85LzIwMjEgNjo0NjoxMyBQTSZoYXNoX3ZhbHVlPVlwR1k1c2hQOGl6UE5wWlREVnZ3SUE9PSZ2YWxpZG1pbnV0ZXM9Mg==
+http://7yuzbrkp.mais7.ovh:80/live/BBB_21_CAM_01_HD.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStv-vPWABxJdjcvJK6kA-thObTc3bBXE3-HRLIVoD0Q1OM1PKfjuNB9SnS&s=10" group-title="big brother",câmera 2 HD
 http://69.162.89.182:8081/live/bbb11/chunks.m3u8?nimblesessionid=7704075&wmsAuthSign=c2VydmVyX3RpbWU9NC85LzIwMjEgNjo0ODo1NCBQTSZoYXNoX3ZhbHVlPW5rdDBPb0htSllUM2FHRGNwcUtnRUE9PSZ2YWxpZG1pbnV0ZXM9Mg==
